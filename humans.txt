@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- bhanu ketha -- <twitter>
 
 # THANKS
 
@@ -13,4 +13,5 @@
 
     HTML5, CSS3, CSS5, Angular
     jQuery, Modernizr
+
 
