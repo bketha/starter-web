@@ -15,6 +15,9 @@ Sample website with plenty of files for demos
 
 A lot of lectures are already submitted - This is the best training
 
+## Contribution
+Fork the Repo and raise pull request for review
+
 Git comparision, adding git comparisions lecture.
 
 Comparision 2
