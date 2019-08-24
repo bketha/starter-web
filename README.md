@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 #Introduction
 
 A lot of lectures are already submitted - This is the best training
+
+Git comparision, adding git comparisions lecture.
+
+Comparision 2
