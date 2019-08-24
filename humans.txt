@@ -5,7 +5,7 @@
 
     Bhanu Ketha
     pketha@gmail.com
-    bketha Devops Engineer
+    bketha
 
 # THANKS
 
@@ -15,5 +15,5 @@
 
     HTML5, CSS3, CSS5, Angular
     jQuery, Modernizr
-
+    Docker, Java
 
