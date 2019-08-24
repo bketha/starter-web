@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- bhanu ketha -- <twitter>
+    Bhanu Ketha
+    pketha@gmail.com
+    bketha Devops Engineer
 
 # THANKS
 
