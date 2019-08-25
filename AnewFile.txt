@@ -1,0 +1,3 @@
+# Adding a new file for the GIT project
+Thsi file is not tracked by git
+

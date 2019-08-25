@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Modifying file before rebase
+Did some changes on local
+Adding important notes on Git Stash
 # TEAM
 Doing some changes in local
     Bhanu Ketha
