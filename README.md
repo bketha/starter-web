@@ -15,6 +15,7 @@ Sample website with plenty of files for demos
 
 A lot of lectures are already submitted - This is the best training
 Adding Git Rebase lectures Advance part
+We have done so much work together
 ## Contribution
 Fork the Repo and raise pull request for review
 
